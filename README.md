@@ -28,6 +28,7 @@
 
 ## ▪️ Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 <!--
 # 📊 GitHub Stats:
