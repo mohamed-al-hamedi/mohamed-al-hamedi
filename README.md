@@ -29,6 +29,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Linux System Administration](https://img.shields.io/badge/Linux_System_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## ▪️ Familiar Linux Distributions
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=med-al-hamedi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
