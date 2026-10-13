@@ -28,8 +28,7 @@
 ## ▪️ Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-
+![Linux System Administration](https://img.shields.io/badge/Linux_System_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=med-al-hamedi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
