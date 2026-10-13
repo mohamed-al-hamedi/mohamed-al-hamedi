@@ -23,11 +23,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=%2320232a)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-%23000000.svg?style=for-the-badge&logo=xml&logoColor=white)
 
 ## ▪️ Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 <!--
