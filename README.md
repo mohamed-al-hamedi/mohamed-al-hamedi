@@ -18,7 +18,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
 
-## ▪️ Low Proficiency
+## ▪️ Familiar
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
